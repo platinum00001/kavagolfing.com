@@ -1,0 +1,20 @@
+{
+ "name": "Kava Golfing",
+ "short_name": "Golf",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#fbf6ee",
+ "theme_color": "#16301a",
+ "icons": [
+  {
+   "src": "apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
